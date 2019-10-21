@@ -1,2 +1,2 @@
-Retraction Distance: 6mm
-Retraction Speed: 100ms
+Retraction Distance: 2.5mm
+Retraction Speed: 50ms
